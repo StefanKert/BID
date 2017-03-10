@@ -3,6 +3,6 @@ Bei der Verwendung einer n-Fold Cross-Validation werden die verfügbaren Beispie
 
 Warum ist ein solches Vorgehen beim maschinellen Lernen sinnvoll? Welche Aussagen können aufgrund des Ergebnisses der Cross-Validation gemacht werden? Dient die Cross-Validation zur Bewertung eines Modells oder eines Verfahrens?
 
-__**Sinnvoll dann, wenn nicht sehr viele Daten verfügbar sind -> Aufteilung würde die Datenmenge noch mehr reduzieren. Außerdem ist es nicht immer einfach, repräsentativ auf Test- und Trainingsdaten aufzuteilen, da theoretisch zufällig unpassend verteilte Daten gewählt werden könnten.**__
+Sinnvoll dann, wenn nicht sehr viele Daten verfügbar sind -> Aufteilung würde die Datenmenge noch mehr reduzieren. Außerdem ist es nicht immer einfach, repräsentativ auf Test- und Trainingsdaten aufzuteilen, da theoretisch zufällig unpassend verteilte Daten gewählt werden könnten.
 
-__**Beurteilung des Modells (Training + Test)**__
+Beurteilung des Modells (Training + Test)

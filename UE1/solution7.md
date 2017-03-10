@@ -9,9 +9,6 @@ Führen Sie für die im vorigen Beispiel skizzierte Lernaufgabe den Find-S Algor
 <tr><td>[? 1 0]</td><td>[1 0 1] (Skip)</td></tr>
 </table>
 
-h = [? 1 ?]
+h = [? 1 0]
 
-
-Ist immer abhängig von der Ausgangssituation bzw. von den Trainingsdaten. 
-
-Findet nicht immer spezifischsten Kandidaten -> hängt von der Ausgangssituation ab: Wenn die spezifischste Hypthesen keine Übereinstimmung bei immer gleichen Elementen hat (so wie hier bei [1 1 1]), werden eine zu generelle Hypothese gefunden (wäre bei [0 1 0] nicht passiert)
+Findet immer die spezifischte Lösung die für alle positiven Lösungen gilt. Die generellste Lösung wäre [? 1 ?] gefunden wurde aber die spezifischere Lösung [? 1 0].
