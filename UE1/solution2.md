@@ -19,4 +19,5 @@ Betrachten Sie eine binäre Lernaufgabe (d.h. es gibt nur zwei verschiedene Ziel
 > 1 ⇔ (a3 = hoch ∧ a4 = langsam) ∨ (a8 = normal ∧ a5 = glatt)
 
 * Lösung
-    * k^n + n^4 * k
+    *  k^n + (n^k * k)^2 
+
