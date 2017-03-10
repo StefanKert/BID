@@ -49,6 +49,4 @@ ___
 
 V = { }  
 
-Traningsdaten sind 
- * inkonsistent, z.B. weil die Attribute kaum Auswirkungen auf Klasse haben
- * oder Konzept ist nicht in H
+Traningsdaten sind auf Grund des letzten Trainingsbeispiels inkonsitent. Für [0 0 0] sollte auf Grund der bisherigen Trainingsdaten das Konzept 0 herauskommen. Ein mögliches Problem wäre auch, dass dieses Konzept nicht in H enthalten ist und sich daher das bisherige Model falsch trainiert hat.

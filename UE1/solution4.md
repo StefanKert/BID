@@ -13,4 +13,4 @@ Benennen sie jeweils ein oder mehrere typische Anwendungsfälle. Die eben genann
 1. Überwachtes Lernen
     * In der Trainingsphase werden Eingaben mit korrekten Lösungen vorgegeben, an die sich das System "anpasst". Dadurch werden die Zusammenhänge zwischen Ein- und Ausgabe erlernt.
 2. Unüberwachtes Lernen
-    * Keine Vorgaben bzgl. zu erwartender Ausgabe. System muss selbst Strukturen und Muster erkennen.
+    * Keine Vorgaben bzgl. zu erwartender Ausgabe. System muss selbst Strukturen und Muster erkennen. 
