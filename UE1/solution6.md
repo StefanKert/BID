@@ -11,20 +11,17 @@ Gegeben seien folgende Trainingsbeispiele eines binären Lernproblems, bei dem j
 
 1. Stellen Sie den Verband aller Hypothesen, der durch die Genereller-Als-Relation gebildet wird, graphisch dar.
 
+![Beispiel a](UE6_a.png)
+
 2. Welche der folgenden Hypothesen sind mit den Trainingsdaten konsistent?
 
 <table>
-<tr><td>[? ? ?]</td><td>[ ]</td></tr>
-<tr><td>[0 1 0]</td><td>[1 1 1]</td></tr>
-<tr><td>[? 1 0]</td><td>[1 ? 0]</td></tr>
-<tr><td>[? ? 0]</td><td>[? 1 ?]</td></tr>
-</table>
-
-* Lösung: 
-
-<table>
 <tr><td>[? ? ?]</td></tr>
-<tr><td>[? 1 0]</td></tr>
+<tr><td>[ ]</td></tr>
+<tr><td>[0 1 0]</td></tr>
+<tr><td>[1 1 1]</td></tr>
+<tr><td><b><u>[? 1 0]<u></b></td></tr>
+<tr><td>[1 ? 0]</td></tr>
 <tr><td>[? ? 0]</td></tr>
-<tr><td>[? 1 ?]</td></tr>
+<tr><td><b><u>[? 1 ?]</u></b></td></tr>
 </table>
