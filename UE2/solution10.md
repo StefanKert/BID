@@ -3,12 +3,12 @@ Geben Sie für jede der drei folgenden boolschen Funktionen einen entsprechenden
 
 * A ∧ ¬B
 
-![Lösung1](solution_1.png)
+![Lösung1](images/solution_1.png)
 
 * A ∨ (B ∧ C)
 
-![Lösung2](solution_2.png)
+![Lösung2](images/solution_2.png)
 
 * (A ∧ B) ∨ (C ∧ D)
 
-![Lösung3](solution_3.png)
+![Lösung3](images/solution_3.png)
