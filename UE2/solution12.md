@@ -1,7 +1,7 @@
 # 12. ID3 Algorithmus:
 Gegeben seien folgende Trainingsdaten:
 
-![Tabelle 1](images/table_ex_12_1.png)
+![Tabelle 2](images/table_ex_12_1.PNG)
 
 1. Geben Sie den Entscheidungsbaum an, der basierend auf diesen Trainingsdaten vom ID3-Algorithmus gelernt werden würde.
 

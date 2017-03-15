@@ -55,7 +55,7 @@ Gegeben seien folgende Trainingsbeispiele eines Lernproblems mit zwei Klassen:
     - Gain(a1) = 0,0817042
     - Gain(a2) = 0
 
-3. Beschreiben Sie mit eigenen Worten, was die beiden Maßzahlen Entropie und Informationsgewinn eigentlich aussagen bzw. messen, und erkl¨aren Sie, warum sie beim Lernen von Entscheidungsbäumen von großer Bedeutung sind.
+3. Beschreiben Sie mit eigenen Worten, was die beiden Maßzahlen Entropie und Informationsgewinn eigentlich aussagen bzw. messen, und erklären Sie, warum sie beim Lernen von Entscheidungsbäumen von großer Bedeutung sind.
 
 - Entropie
     - Mit der Entropie wird die Reihnheit bzw. Unreinheit einer beliebigen Menge von Beispielen berechnet. Die Entropie bestimmt den mittleren Informationsgehalt eines Attributes.
