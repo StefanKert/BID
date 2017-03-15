@@ -46,5 +46,19 @@ Gegeben seien folgende Trainingsbeispiele eines Lernproblems mit zwei Klassen:
 </table>
 
 1. Berechnen Sie die Entropie für die gegenenen Trainingsdaten im Hinblick auf das Zielkonzept.
+
+    Entropy (C) = - 3/6 * ld (3/6)  - 3/6 * ld (3/6) 
+                = -0,5 * -1         - 0,5 * -1
+                = 1
+
 2. Berechnen Sie den Informationsgewinn der beiden Attribute a1 und a2.
+    Entropy(C1) =  
+
+    InfoGain(C,A) = 1 - 3/6 * 
+
 3. Beschreiben Sie mit eigenen Worten, was die beiden Maßzahlen Entropie und Informationsgewinn eigentlich aussagen bzw. messen, und erkl¨aren Sie, warum sie beim Lernen von Entscheidungsbäumen von großer Bedeutung sind.
+
+- Entropie
+    - Die Entropie gibt an wie homogen Daten innerhalb eines Entscheidungsbaumes dind. 
+- Informationsgewinn
+    - 
