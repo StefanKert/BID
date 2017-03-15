@@ -4,7 +4,7 @@ Erklären sie in eigenen Worten die Charaktaristika und Unterscheidungsmerkmale 
 1. Klassifikationsaufgaben.
     * Als Ergebnis sollten Datensätze bestimmten Klassen zugeordnet werden. Bspw. Mensch oder Kein Mensch. 
 2. Regressionsaufgaben.
-    * Es sollte ein passender Zahlenwert zu einem Eingabeparemeter gefunden werden. Anhand einer Funktion wird von einem Eingangswert x ein Ausgangswert y gefunden. Beispiel: Preisschätzung von Gründstücken. 
+    * Numerisch und basiert auf Prognose. Es sollte ein passender Zahlenwert zu einem Eingabeparemeter gefunden werden. Anhand einer Funktion wird von einem Eingangswert x ein Ausgangswert y gefunden. Beispiel: Preisschätzung von Gründstücken. 
 3. Zeitreihenanalyse.
     * Zeitabhängige Datensätze werden zur Lösung herangezogen, wie z.B. das Wetter.
 
